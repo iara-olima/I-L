@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00004C8,50:000066,100:00004C&height=120&section=header" />
-<img src="https://images-prod.dazeddigital.com/1024/azure/dazed-prod/1050/6/1056846.jpg"alt="Image Description" width="210px" align="left">
+<img src="https://images-prod.dazeddigital.com/1024/azure/dazed-prod/1050/6/1056846.jpg"alt="Image Description" width="200px" align="left">
 
 ```c#
 public class Iara
