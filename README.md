@@ -8,7 +8,7 @@ public class Iara
     {
         Console.WriteLine("Olá, meu nome é Iara!");
 
-        string[] linguagens = { "C#", "HTML", "CSS", "JavaScript", "PHP" };
+        string[] linguagens = { "C#", "HTML", "CSS", "JavaScript", "PHP, Python" };
     }
 }
 ```
